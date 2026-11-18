@@ -7,3 +7,5 @@ Bilgisayar ağları ve işletim sistemleri konularında aldığım kişisel ders
 - dosya_sistemleri.md
 - isletim_sistemleri.md
 - temel_kavramlar.md
+- linux_temelleri.md 
+
